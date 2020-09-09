@@ -1,0 +1,22 @@
+.custom-image img {
+  display: block;
+}
+.custom-card {
+  padding: 10px 26px;
+}
+.custom-card p {
+  color: #999;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.card_main {
+  width: 200px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.popular {
+  color: white;
+  font-weight: bolder;
+  font-family: robot;
+  padding: 10px 20px;
+  background-color: blue;
+  width: 100%;
+}
